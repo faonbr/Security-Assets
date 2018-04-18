@@ -1,0 +1,31 @@
+{
+  "name": "idcsdemo",
+  "main": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "4.7.0",
+    "angular": "1.6.9",
+    "angular-route": "1.6.9",
+    "angular-ui-router": "1.0.14",
+    "angular-resource": "1.6.9",
+    "angularjs-dropdown-multiselect": "^1.11.8",
+    "angular-bootstrap": "2.5.0",
+    "angular-animate": "1.6.9",
+    "angularUtils-pagination": "angular-utils-pagination#0.11.1",
+    "angular-export-table": "*",
+    "angular-ui-grid": "4.2.3",
+    "pdfmake": "0.1.35",
+    "angular-touch": "1.6.9",
+    "jquery": "^3.3.1",
+    "bootstrap": "3.3.7"
+  },
+  "resolutions": {
+    "angular": "1.5.5"
+  }
+}
