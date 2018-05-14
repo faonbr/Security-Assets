@@ -1,0 +1,25 @@
+{
+  "name": "idcsdemo",
+  "main": "index.html",
+  "author": "Indranil Jha",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "4.7.0",
+    "angular": "1.6.9",
+    "angular-route": "1.6.9",
+    "angular-ui-router": "1.0.14",
+    "angular-resource": "1.6.9",
+    "angular-bootstrap": "2.5.0",
+    "jquery": "3.3.1",
+    "bootstrap": "3.3.7"
+  },
+  "resolutions": {
+    "angular": "1.5.5"
+  }
+}
